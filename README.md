@@ -13,6 +13,17 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 </div>
 
 
+## Matlab 
+  - Signal Processing 
+  - Acoustics
+  
+## Python
+
+  - Machine Learning 
+  - Data mining
+  - Django (Web)
+  
+
 
 - <img width = 90 src = 'https://uwaterloo.ca/mechanical-mechatronics-engineering-information-technology/sites/ca.mechanical-mechatronics-engineering-information-technology/files/uploads/images/matlab-logo_0.jpg' />
 
