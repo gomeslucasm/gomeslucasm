@@ -2,7 +2,7 @@
 
 
 My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Actually I'm start to use Python for engineering things and study Machine Learning and Web Programming.
-work as a Front End Engineer at Nubank and have my YouTube Channel where I make it as my personal lab, sharing many stuff there every week :)
+
 
 
 <ul align = 'center' >
