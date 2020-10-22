@@ -13,7 +13,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-- [<a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
+- 
+[<a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
     <img width = 90 max-length = '100%' src = />
   </a>]
 
