@@ -5,16 +5,15 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-  <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
-    <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
-  </a>
+<a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
+  <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
+</a>
   
   
   
-</ul>
   
 
   
