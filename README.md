@@ -5,12 +5,16 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-<ul align = 'center' >
-<a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <img width = 90 max-length = '100%' src = 'https://lh3.googleusercontent.com/proxy/PqP-u_SdYce-Jq44hpeTh_PhCYD6BLF1RgLpAtoGjKwC7UQZCWQJio2HA6xzOjR8MPyCQL9eDIdGnq5U9STBrgys9u29AB-JKAnlVkKxJHW7vM4-uwcFho9snZ1E3gqW6K9sp9J0T30pvMMQbV0'/>
-<a>
+<ul align = 'left' >
+  <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a>
+    <img width = 90 max-length = '100%' src = 'https://lh3.googleusercontent.com/proxy/PqP-u_SdYce-   Jq44hpeTh_PhCYD6BLF1RgLpAtoGjKwC7UQZCWQJio2HA6xzOjR8MPyCQL9eDIdGnq5U9STBrgys9u29AB-JKAnlVkKxJHW7vM4-uwcFho9snZ1E3gqW6K9sp9J0T30pvMMQbV0'/>
+  </a>
+  
+  
+  
 </ul>
   
 
