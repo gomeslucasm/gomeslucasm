@@ -13,10 +13,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-- 
-[<a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
-    <img width = 90 max-length = '100%' src = />
-  </a>]
+- <img width = 90 max-length = '100%' src ='https://research-it.berkeley.edu/sites/default/files/styles/large/public/matlab-logo.jpg?itok=Zse5goL-' />
+
 
   
   
