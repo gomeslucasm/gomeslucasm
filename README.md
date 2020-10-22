@@ -3,7 +3,9 @@
 dsadasd
 Here are some ideas to get you started:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+[<a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
