@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Nowadays, I'm start to use Python for engineering things and studies for Machine Learning and Web Frameworks.
+My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Nowadays, I'm starting to use Python to do engineering things, and studies of Machine Learning and Web Frameworks.
 
 <div>
   <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
@@ -11,6 +11,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
     <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
   </a>
 </div>
+
+
 
 <!--
 - 🌱 I’m currently learning
