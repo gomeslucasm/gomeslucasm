@@ -31,7 +31,7 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
     - Digital Signal Processing 
     
-[![Stories in Ready](https://badge.waffle.io/scottclowe/matlab-schemer.png?label=ready&title=Ready)](https://waffle.io/scottclowe/matlab-schemer)
+[![Stories in Ready](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
