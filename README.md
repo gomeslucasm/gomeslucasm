@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Actually I'm start to use Python for engineering things and study Machine Learning and Web Programming.
+work as a Front End Engineer at Nubank and have my YouTube Channel where I make it as my personal lab, sharing many stuff there every week :)
+
+
 <ul align = 'center' >
 <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,14 +13,7 @@
 <a>
 </ul>
   
-  [![researchgate](https://img.shields.io/badge/v1?label=researchgates&style=flat-square&logo=researchgate)](https://www.researchgate.net/project/Systematic-and-efficient-theoretical-investigations-of-metal-organic-frameworks-MOFs)
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
 
-[![ResearchGate e]()](https://www.linkedin.com/in/omariosouto)
-
-
-[![researchgate](https://img.shields.io/static/v1?label=researchgate&style=social&logo=researchgate)](https://www.researchgate.net/project/Systematic-and-efficient-theoretical-investigations-of-metal-organic-frameworks-MOFs) 
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
