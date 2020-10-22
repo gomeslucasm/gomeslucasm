@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Actually I'm start to use Python for engineering things and study Machine Learning and Web Programming.
+My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab for my undergraduation engineering works since 2016. Actually I'm start to use Python for engineering things and other studies.
 
 <div>
   <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
