@@ -19,7 +19,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
     - Acoustics
 
     - Digital Signal Processing 
-  
+    
+[![Stories in Ready](https://badge.waffle.io/scottclowe/matlab-schemer.png?label=ready&title=Ready)](https://waffle.io/scottclowe/matlab-schemer)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
