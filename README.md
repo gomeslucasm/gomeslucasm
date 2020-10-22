@@ -12,7 +12,7 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
   </a>
 </div>
 
-
+<!--
 - 🌱 I’m currently learning
   - ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
   - ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
@@ -46,3 +46,5 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
