@@ -10,13 +10,15 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
     <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
   </a>
 </div>
-<div>
+
+
+
+- <div>
   <a href = 'https://www.researchgate.net/profile/Lucas_Gomes19'>
     <img width = 90 max-length = '100%' src = />
   </a>
 </div>
   
-   ![]('https://uwaterloo.ca/mechanical-mechatronics-engineering-information-technology/sites/ca.mechanical-mechatronics-engineering-information-technology/files/uploads/images/matlab-logo_0.jpg')
   
   
 - 🔭 I’m currently working on ...
