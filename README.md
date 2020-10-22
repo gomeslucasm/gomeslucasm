@@ -9,7 +9,7 @@
 <a>
   </ul>
   
-  [![researchgate](https://img.shields.io/static/v1?label=researchgate&message=MOFs&style=social&logo=researchgate)](https://www.researchgate.net/project/Systematic-and-efficient-theoretical-investigations-of-metal-organic-frameworks-MOFs)
+  [![researchgate](https://img.shields.io/static/v1?label=researchgates&style=flat-square&logo=researchgate)](https://www.researchgate.net/project/Systematic-and-efficient-theoretical-investigations-of-metal-organic-frameworks-MOFs)
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
   
