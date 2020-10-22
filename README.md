@@ -5,7 +5,6 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-<ul align = 'left' >
   <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
