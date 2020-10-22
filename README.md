@@ -13,7 +13,7 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 
 
 
-- <img width = 90 max-length = '100%' src ='https://research-it.berkeley.edu/sites/default/files/styles/large/public/matlab-logo.jpg?itok=Zse5goL-' />
+
 
 
   
