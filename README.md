@@ -15,7 +15,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷). I've been using Matlab f
 # DEPLOYED PROJECTS
 
  - AI-number-prediction - Deploy de uma aplicação de IA em Flask que identifica dígitos de 0-9 escritos a mão. A aplicação está hospedada no Heroku.
-    - https://ai-number-identification.herokuapp.com/
+    - https://ai-number-identification.herokuapp.com
+    - ![Repositório](https://github.com/gomeslucasm/AI-number-prediction)
  
 
 <!--
