@@ -8,6 +8,8 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷).
 
 - an acoustic engineering wannabe that like to manipulate audio things with some codes.
 
+find me on:
+
 <div>
   <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,4 +26,3 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷).
     - [Repositório](https://github.com/gomeslucasm/AI-number-prediction)
  - https://www.casadopoetasantiago.com.br/
  
-teste
