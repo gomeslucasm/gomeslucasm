@@ -18,7 +18,8 @@ find me on:
     <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
   </a>
 </div>
-  - gomeslucas.dev
+  - 
+  - [gomeslucas.dev](gomeslucas.dev)
 
 # PROJECTS
 
