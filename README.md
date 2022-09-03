@@ -10,7 +10,7 @@ My name is Lucas Gomes, and I'm from Brazil (🇧🇷).
 
 find me on:
 
-[gomeslucas.dev](gomeslucas.dev)
+[gomeslucas.dev](https://gomeslucas.dev)
 
 <div>
   <a href ='https://www.linkedin.com/in/lucas-gomes-43ba57170/'>
