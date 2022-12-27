@@ -24,7 +24,7 @@ find me on:
 # PROJECTS
 
  - AI-number-prediction - Deploy de uma aplicação de IA em Flask que identifica dígitos de 0-9 escritos a mão. A aplicação está hospedada no Heroku.
-    - https://ai-number-identification.herokuapp.com
+    - [https://ai-number-identification.herokuapp.com](https://number-prediction.gomeslucas.dev/)
     - [Repositório](https://github.com/gomeslucasm/AI-number-prediction)
  - https://www.casadopoetasantiago.com.br/
  - https://santiagohoje.vercel.app/
