@@ -33,7 +33,7 @@ find me on:
 
 - Rendering binaural signals for moving sources -
     - https://www.researchgate.net/publication/348396553_Rendering_binaural_signals_for_moving_sources
-    - Audio generation to simulate moving sound sources, e.g. cars and planes, using MATLAB.
+    - Audio generation to simulate moving sound sources, e.g. cars and airplanes, using MATLAB.
 - Toolbox educacional para simulação de fontes sonoras estáticas e em movimento 
     - https://www.researchgate.net/publication/364195083_Toolbox_educacional_para_simulacao_de_fontes_sonoras_estaticas_e_em_movimento/
     - A Matlab educational toolbox to simulate sound measurements of moving sound sources using microphones.
