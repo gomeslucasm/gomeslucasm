@@ -36,6 +36,7 @@ find me on:
     - Audio generation to simulate moving sound sources, e.g. cars and planes, using MATLAB.
 - Toolbox educacional para simulação de fontes sonoras estáticas e em movimento 
     - https://www.researchgate.net/publication/364195083_Toolbox_educacional_para_simulacao_de_fontes_sonoras_estaticas_e_em_movimento/
-    - A matlab educational toolbox to simulate sound measurements of moving sound sources using microphones.
+    - A Matlab educational toolbox to simulate sound measurements of moving sound sources using microphones.
+    - https://github.com/eac-ufsm/fia2022-fontes-sonoras
 - Sintetização e remoção de Efeito Doppler
     - https://www.researchgate.net/publication/344867769_Sintetizacao_e_remocao_de_Efeito_Doppler
