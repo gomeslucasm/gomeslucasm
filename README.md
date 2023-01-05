@@ -21,10 +21,21 @@ find me on:
   </a>
 </div> 
 
-# PROJECTS
+# Projects
 
- - AI-number-prediction - Deploy de uma aplicação de IA em Flask que identifica dígitos de 0-9 escritos a mão. A aplicação está hospedada no Heroku.
+ - AI-number-prediction - AI that guesses numbers from 1 to 9 written by hand. Hosted at https://render.com/.
     - [https://number-prediction.gomeslucas.dev/](https://number-prediction.gomeslucas.dev/)
     - [Repositório](https://github.com/gomeslucasm/AI-number-prediction)
  - https://www.casadopoetasantiago.com.br/
  - https://santiagohoje.vercel.app/
+
+# Academic papers
+
+- Rendering binaural signals for moving sources -
+    - https://www.researchgate.net/publication/348396553_Rendering_binaural_signals_for_moving_sources
+    - Audio generation to simulate moving sound sources, e.g. cars and planes, using MATLAB.
+- Toolbox educacional para simulação de fontes sonoras estáticas e em movimento 
+    - https://www.researchgate.net/publication/364195083_Toolbox_educacional_para_simulacao_de_fontes_sonoras_estaticas_e_em_movimento/
+    - A matlab educational toolbox to simulate sound measurements of moving sound sources using microphones.
+- Sintetização e remoção de Efeito Doppler
+    - https://www.researchgate.net/publication/344867769_Sintetizacao_e_remocao_de_Efeito_Doppler
