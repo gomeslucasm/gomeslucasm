@@ -4,7 +4,7 @@
 
 My name is Lucas Gomes, and I'm from Brazil (🇧🇷). 
 
-- insterested in build aleatory things using python and javascript. 
+- developer insterested in build aleatory things using python and javascript, or any other languages.
 
 - an acoustic engineering that like to manipulate audio things with some codes.
 
